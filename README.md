@@ -32,6 +32,13 @@ The dataset used for our work can be downloaded from [here](https://drive.google
 * Hardware: Intel Core i7,8th Gen Processor,Windows 10, 16GB RAM, 512GB SSD. Google Collab.
 * Demonstration: The demonstration video of our whole project can be found [here](https://drive.google.com/file/d/1wozYz3WNqxmlgNPOjEziz6z-Hk4CENFP/view?usp=sharing).
 
+### Accessing the Project
+
+Clone the repository and start experimenting yourself :)
+
+```
+git clone https://github.com/group3-dbit/Breast-Cancer-Detection-Segmentation
+```
 
 ## Help
 
@@ -39,7 +46,13 @@ If you encounter any difficulties, please feel free to reach out to any of the a
 
 ## Authors
 
-[Amaan Nizam](https://www.linkedin.com/in/amaannizam/). <br/>
-[Anne Pinto](https://www.linkedin.com/in/annerachelpinto/). <br/>
-[Minita Joshee](https://www.linkedin.com/in/minita-joshee-882a4a161/). <br/>
-[Abhiram Pillai](https://www.linkedin.com/in/abhiram-pillai-596808190/).
+* Amaan Nizam <br/>
+* Anne Pinto <br/>
+* Minita Joshee <br/>
+* Abhiram Pillai <br/>
+
+## Contact
+
+* Email : [amaannizam63@gmail.com]
+* Alternate Email : [annerachelpinto@gmail.com]
+* LinkedIn : [https://www.linkedin.com/in/minita-joshee-882a4a161/]
