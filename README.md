@@ -30,6 +30,7 @@ The dataset used for our work can be downloaded from [here](https://drive.google
 
 * Software: Tensorflow & Keras/Pytorch/Pycharm
 * Hardware: Intel Core i7,8th Gen Processor,Windows 10, 16GB RAM, 512GB SSD. Google Collab.
+* Demonstration: The demonstration video of our whole project can be found [here](https://drive.google.com/file/d/1wozYz3WNqxmlgNPOjEziz6z-Hk4CENFP/view?usp=sharing).
 
 
 ## Help
