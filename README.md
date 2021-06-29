@@ -12,10 +12,19 @@ The main objectives of our project revolve around the classification of tumors a
 
 ## Getting Started
 
-### Datasets
+### Dataset
 
 The input dataset was divided into two categories i.e training dataset and test dataset. Training dataset includes the images which were trained with four models while test dataset was the one which provided unbiased evaluation of the model on the training dataset.
-The dataset used in our work can be downloaded from [here](https://drive.google.com/drive/folders/18bmhjPMxoxsKh08cg8nRvqiz17kvvlEI?usp=sharing).
+
+#### MIAS Dataset
+
+The MIAS database contains the original 322 images (161 pairs) at 50 micron resolution in "Portable Gray Map" (PGM) format andassociated truth data which depict CC and MLO views of the scanned images. It is a supervised dataset which consists of the class, radius, severity and X and Y coordinates of each scan. <br/>
+The dataset used for our work can be downloaded from [here](https://www.kaggle.com/kmader/mias-mammography).
+
+#### DDSM Dataset
+
+Another database used is DDSM which is a database of digitized film-screen mammograms with associated ground truth and other information.  It contains 2620, four view, mammography screening exams. This dataset contains images that have been pre-processed and converted to 299x299 images by extracting the ROIs. The data is stored as tfrecords files for TensorFlow. The dataset contains 55,890 training examples, of which 14% are positive and the remaining 86% negative, divided into 5 tfrecords files.
+The dataset used for our work can be downloaded from [here](https://drive.google.com/drive/folders/18bmhjPMxoxsKh08cg8nRvqiz17kvvlEI?usp=sharing).
 
 ### Dependencies
 
@@ -29,7 +38,7 @@ If you encounter any difficulties, please feel free to reach out to any of the a
 
 ## Authors
 
-[Amaan Nizam](https://www.linkedin.com/in/amaannizam/).
-[Anne Pinto](https://www.linkedin.com/in/annerachelpinto/).
-[Minita Joshee](https://www.linkedin.com/in/minita-joshee-882a4a161/).
+[Amaan Nizam](https://www.linkedin.com/in/amaannizam/). <br/>
+[Anne Pinto](https://www.linkedin.com/in/annerachelpinto/). <br/>
+[Minita Joshee](https://www.linkedin.com/in/minita-joshee-882a4a161/). <br/>
 [Abhiram Pillai](https://www.linkedin.com/in/abhiram-pillai-596808190/).
