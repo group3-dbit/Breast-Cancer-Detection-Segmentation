@@ -46,13 +46,12 @@ If you encounter any difficulties, please feel free to reach out to any of the a
 
 ## Authors
 
-* Amaan Nizam <br/>
-* Anne Pinto <br/>
-* Minita Joshee <br/>
-* Abhiram Pillai <br/>
+* Amaan Nizam - [LinkedIn](https://www.linkedin.com/in/amaannizam/)
+* Anne Pinto - [LinkedIn](https://www.linkedin.com/in/annerachelpinto/)
+* Minita Joshee - [LinkedIn](https://www.linkedin.com/in/minita-joshee-882a4a161/)
+* Abhiram Pillai - [LinkedIn](https://www.linkedin.com/in/abhiram-pillai-596808190/)
 
 ## Contact
 
 * Email : [amaannizam63@gmail.com]
 * Alternate Email : [annerachelpinto@gmail.com]
-* LinkedIn : [https://www.linkedin.com/in/minita-joshee-882a4a161/]
